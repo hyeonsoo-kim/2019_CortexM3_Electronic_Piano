@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{Doc-Start}{개요}{}% 1
+\BOOKMARK [1][-]{section*.1}{목차}{}% 2
+\BOOKMARK [1][-]{section*.2}{그림 목차}{}% 3
+\BOOKMARK [1][-]{section.1}{목적과 배경지식}{}% 4
+\BOOKMARK [2][-]{subsection.1.1}{목적}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{배경지식}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.1}{PWM}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.2}{디지털 앰프}{subsection.1.2}% 8
+\BOOKMARK [1][-]{section.2}{프로젝트 시나리오와 변경사항}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{프로젝트 시나리오}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.2}{변경사항}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{텀프로젝트 설계}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{필요 장비와 준비물}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{프로젝트환경 구성}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{소프트웨어 구현}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{main}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{건반 입력 구현}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{녹음, 재생 기능}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.4}{라이브러리 작성과 활용}{section.4}% 19
+\BOOKMARK [1][-]{section.5}{결론}{}% 20
+\BOOKMARK [1][-]{section*.4}{참고문헌}{}% 21

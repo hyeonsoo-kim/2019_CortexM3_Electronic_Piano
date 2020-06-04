@@ -1,0 +1,22 @@
+\contentsline {section}{개요}{i}{Doc-Start}% 
+\contentsline {section}{목차}{ii}{section*.1}% 
+\contentsline {section}{그림 목차}{ii}{section*.2}% 
+\contentsline {section}{\numberline {1}목적과 배경지식}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}목적}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}배경지식}{1}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}PWM}{1}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.2.2}디지털 앰프}{1}{subsubsection.1.2.2}% 
+\contentsline {section}{\numberline {2}프로젝트 시나리오와 변경사항}{1}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}프로젝트 시나리오}{1}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}변경사항}{2}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}텀프로젝트 설계}{2}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}필요 장비와 준비물}{2}{subsection.3.1}% 
+\contentsline {paragraph}{일러두기}{3}{section*.3}% 
+\contentsline {subsection}{\numberline {3.2}프로젝트환경 구성}{4}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}소프트웨어 구현}{5}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}main}{5}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}건반 입력 구현}{5}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}녹음, 재생 기능}{5}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}라이브러리 작성과 활용}{5}{subsection.4.4}% 
+\contentsline {section}{\numberline {5}결론}{5}{section.5}% 
+\contentsline {section}{참고문헌}{6}{section*.4}% 
